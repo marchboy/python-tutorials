@@ -1,1 +1,5 @@
+
 threads: Python threads synchronization: Locks, RLocks, Semaphores, Conditions, Events and Queues.
+
+Python线程同步机制: Locks, RLocks, Semaphores, Conditions, Events和Queues
+http://yoyzhou.github.io/blog/2013/02/28/python-threads-synchronization-locks/
